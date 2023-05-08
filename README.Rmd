@@ -2,7 +2,7 @@
 title: "Taller"
 author: "PICT-19-328"
 date: "2023-05-08"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
