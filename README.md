@@ -67,7 +67,7 @@ Python. A cargo del Dr. Agustín Santella.
     Pre-trained Autoregressive Language Model (arXiv:2209.03891). Links:
     [original en
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_en.pdf)
-    y \[traducción al español con
-    Google\]<https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf>).
+    y [traducción al español con
+    Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
 
 ##### Ejercicios
