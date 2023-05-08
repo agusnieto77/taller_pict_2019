@@ -29,6 +29,9 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): de
 
 ##### Biblio
 
+Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work for Sociological Inquiry. Sociological Methods & Research, 51(4), 1580–1633. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
+
+
 ##### Ejercicios
 
 #### Viernes 2, de 9 a 12:30 h. {style="text-align: justify"}
