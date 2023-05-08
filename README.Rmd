@@ -48,4 +48,9 @@ Extracción de triplet SAO: desarrollo de técnicas para la identificación comp
 
 ##### Biblio
 
+- Mehta, S., Rangwala, H., & Ramakrishnan, N. (2022). Improving Zero-Shot Event Extraction via Sentence Simplification (arXiv:2204.02531). Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_es.pdf).
+
+- Fajcik, M., Singh, M., Zuluaga-Gomez, J., Villatoro-Tello, E., Burdisso, S., Motlicek, P., & Smrz, P. (2022). IDIAPers @ Causal News Corpus 2022: Extracting Cause-Effect-Signal Triplets via Pre-trained Autoregressive Language Model (arXiv:2209.03891). Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_en.pdf) y [traducción al español con Google]https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
+
+
 ##### Ejercicios
