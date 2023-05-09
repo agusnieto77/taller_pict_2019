@@ -40,6 +40,9 @@ Etiquetado de noticias: hacia el desarrollo de un método basado en el aprendiza
 
 ##### Biblio
 
+Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual Data Labeling. Tasq.Ai. https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/
+. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_es.pdf).
+
 ##### Ejercicios
 
 #### Viernes 2, de 14 a 17:30 h. {style="text-align: justify"}
