@@ -19,7 +19,7 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): me
 
 ##### Biblio
 
-Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest Event Analysis: Developing a Semiautomated NLP Approach. American Behavioral Scientist, 66(5), 555--577. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
+- Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest Event Analysis: Developing a Semiautomated NLP Approach. American Behavioral Scientist, 66(5), 555--577. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
 
 ##### Ejercicios
 
@@ -29,7 +29,7 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): de
 
 ##### Biblio
 
-Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work for Sociological Inquiry. Sociological Methods & Research, 51(4), 1580–1633. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
+- Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work for Sociological Inquiry. Sociological Methods & Research, 51(4), 1580–1633. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
 
 
 ##### Ejercicios
@@ -40,8 +40,8 @@ Etiquetado de noticias: hacia el desarrollo de un método basado en el aprendiza
 
 ##### Biblio
 
-Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual Data Labeling. Tasq.Ai. https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/
-. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_es.pdf).
+- Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual Data Labeling. Tasq.Ai. https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/
+. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
 
 ##### Ejercicios
 

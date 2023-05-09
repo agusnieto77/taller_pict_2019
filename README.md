@@ -10,12 +10,12 @@ Nieto y del Lic. Diego Pacheco
 
 ##### Biblio
 
-Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest
-Event Analysis: Developing a Semiautomated NLP Approach. American
-Behavioral Scientist, 66(5), 555–577. Links: [original en
-inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf)
-y [traducción al español con
-Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
+-   Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest
+    Event Analysis: Developing a Semiautomated NLP Approach. American
+    Behavioral Scientist, 66(5), 555–577. Links: [original en
+    inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf)
+    y [traducción al español con
+    Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
 
 ##### Ejercicios
 
@@ -27,12 +27,12 @@ y del Dr. Agustín Nieto
 
 ##### Biblio
 
-Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work for
-Sociological Inquiry. Sociological Methods & Research, 51(4), 1580–1633.
-Links: [original en
-inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf)
-y [traducción al español con
-Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
+-   Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work
+    for Sociological Inquiry. Sociological Methods & Research, 51(4),
+    1580–1633. Links: [original en
+    inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf)
+    y [traducción al español con
+    Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
 
 ##### Ejercicios
 
@@ -43,6 +43,14 @@ aprendizaje automático supervisado. A cargo de la Lic. Ivana Teijón, el
 Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 
 ##### Biblio
+
+-   Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual
+    Data Labeling. Tasq.Ai.
+    <https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/>
+    . Links: [original en
+    inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_en.pdf)
+    y [traducción al español con
+    Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
 
 ##### Ejercicios
 
