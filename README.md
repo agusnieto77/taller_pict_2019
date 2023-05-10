@@ -44,6 +44,13 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 
 ##### Biblio
 
+-   Pustejovsky, J., & Stubbs, A. (2012). Natural Language Annotation
+    for Machine Learning: A Guide to Corpus-Building for Applications
+    (1st edition). O’Reilly Media. *Caps. 5 y 6*. Links: [original en
+    inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_en.pdf)
+    y [traducción al español con
+    Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_es.pdf).
+
 -   Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual
     Data Labeling. Tasq.Ai.
     <https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/>
