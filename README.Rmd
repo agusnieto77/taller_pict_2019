@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### 1 y 2 de junio de 2023, Mar del Plata {style="text-align: center"}
 
-### Jueves 1, de 9 a 12:30 h. {style="text-align: justify"}
+### Jueves 1, de 9 a 12:30 hs. {style="text-align: justify"}
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): mejoramiento de funciones existentes. A cargo del Dr. Agustín Nieto y del Lic. Diego Pacheco
 
@@ -23,7 +23,7 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): me
 
 #### Ejercicios
 
-### Jueves 1, de 14 a 17:30 h. {style="text-align: justify"}
+### Jueves 1, de 14 a 17:30 hs. {style="text-align: justify"}
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): desarrollo de nuevas funciones. A cargo de Rodrigo Fernández y del Dr. Agustín Nieto
 
@@ -34,7 +34,7 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): de
 
 #### Ejercicios
 
-### Viernes 2, de 9 a 12:30 h. {style="text-align: justify"}
+### Viernes 2, de 9 a 12:30 hs. {style="text-align: justify"}
 
 Etiquetado de noticias: hacia el desarrollo de un método basado en el aprendizaje automático supervisado. A cargo de la Lic. Ivana Teijón, el Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 
@@ -48,7 +48,7 @@ Etiquetado de noticias: hacia el desarrollo de un método basado en el aprendiza
 
 #### Ejercicios
 
-### Viernes 2, de 14 a 17:30 h. {style="text-align: justify"}
+### Viernes 2, de 14 a 17:30 hs. {style="text-align: justify"}
 
 Extracción de triplet SAO: desarrollo de técnicas para la identificación computacional de sujeto-acción-objeto a partir de BERT (Google) desde Python. A cargo del Dr. Agustín Santella.
 

@@ -4,7 +4,7 @@
 
 #### 1 y 2 de junio de 2023, Mar del Plata
 
-### Jueves 1, de 9 a 12:30 h.
+### Jueves 1, de 9 a 12:30 hs.
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de
 Protesta): mejoramiento de funciones existentes. A cargo del Dr. Agustín
@@ -21,7 +21,7 @@ Nieto y del Lic. Diego Pacheco
 
 #### Ejercicios
 
-### Jueves 1, de 14 a 17:30 h.
+### Jueves 1, de 14 a 17:30 hs.
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de
 Protesta): desarrollo de nuevas funciones. A cargo de Rodrigo Fernández
@@ -38,7 +38,7 @@ y del Dr. Agustín Nieto
 
 #### Ejercicios
 
-### Viernes 2, de 9 a 12:30 h.
+### Viernes 2, de 9 a 12:30 hs.
 
 Etiquetado de noticias: hacia el desarrollo de un método basado en el
 aprendizaje automático supervisado. A cargo de la Lic. Ivana Teijón, el
@@ -63,7 +63,7 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 
 #### Ejercicios
 
-### Viernes 2, de 14 a 17:30 h.
+### Viernes 2, de 14 a 17:30 hs.
 
 Extracción de triplet SAO: desarrollo de técnicas para la identificación
 computacional de sujeto-acción-objeto a partir de BERT (Google) desde
