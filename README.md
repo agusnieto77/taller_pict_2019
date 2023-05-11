@@ -13,8 +13,8 @@ Nieto y del Lic. Diego Pacheco
 #### Biblio
 
 -   Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest
-    Event Analysis: Developing a Semiautomated NLP Approach. American
-    Behavioral Scientist, 66(5), 555–577. Links: [original en
+    Event Analysis: Developing a Semiautomated NLP Approach. *American
+    Behavioral Scientist*, 66(5), 555–577. Links: [original en
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
@@ -30,7 +30,7 @@ y del Dr. Agustín Nieto
 #### Biblio
 
 -   Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work
-    for Sociological Inquiry. Sociological Methods & Research, 51(4),
+    for Sociological Inquiry. *Sociological Methods & Research*, 51(4),
     1580–1633. Links: [original en
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf)
     y [traducción al español con
@@ -46,15 +46,15 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 
 #### Biblio
 
--   Pustejovsky, J., & Stubbs, A. (2012). Natural Language Annotation
-    for Machine Learning: A Guide to Corpus-Building for Applications
-    (1st edition). O’Reilly Media. *Caps. 5 y 6*. Links: [original en
+-   Pustejovsky, J., & Stubbs, A. (2012). *Natural Language Annotation
+    for Machine Learning: A Guide to Corpus-Building for Applications*
+    (1st edition). O’Reilly Media. **Caps. 5 y 6**. Links: [original en
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_es.pdf).
 
 -   Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual
-    Data Labeling. Tasq.Ai.
+    Data Labeling. *Tasq.Ai*.
     <https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/>
     . Links: [original en
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_en.pdf)
@@ -73,7 +73,7 @@ Python. A cargo del Dr. Agustín Santella.
 
 -   Mehta, S., Rangwala, H., & Ramakrishnan, N. (2022). Improving
     Zero-Shot Event Extraction via Sentence Simplification
-    (arXiv:2204.02531). Links: [original en
+    (*arXiv*:2204.02531). Links: [original en
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Improving%20Zero-Shot%20Event%20Extraction_es.pdf).
@@ -81,8 +81,8 @@ Python. A cargo del Dr. Agustín Santella.
 -   Fajcik, M., Singh, M., Zuluaga-Gomez, J., Villatoro-Tello, E.,
     Burdisso, S., Motlicek, P., & Smrz, P. (2022). IDIAPers @ Causal
     News Corpus 2022: Extracting Cause-Effect-Signal Triplets via
-    Pre-trained Autoregressive Language Model (arXiv:2209.03891). Links:
-    [original en
+    Pre-trained Autoregressive Language Model (*arXiv*:2209.03891).
+    Links: [original en
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
