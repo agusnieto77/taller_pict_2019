@@ -23,8 +23,8 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): me
 
 #### Ejercicios
 
-[![Open Colab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e0ScGPss5V3_8ic6lxPenE2HrMi5JgtG?usp=sharing) 
-[![Open Colab 2](https://colab.research.google.com/assets/colab-badge.svg)](#)
+[![Open Colab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_I.ipynb) 
+[![Open Colab 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_II.ipynb)
 
 ### Jueves 1, de 14 a 17:30 hs. {style="text-align: justify"}
 
