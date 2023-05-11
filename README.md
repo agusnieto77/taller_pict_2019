@@ -21,6 +21,11 @@ Nieto y del Lic. Diego Pacheco
 
 #### Ejercicios
 
+[![Open Colab
+1](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+[![Open Colab
+2](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
 ### Jueves 1, de 14 a 17:30 hs.
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de
@@ -37,6 +42,11 @@ y del Dr. Agustín Nieto
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
 
 #### Ejercicios
+
+[![Open Colab
+3](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+[![Open Colab
+4](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ### Viernes 2, de 9 a 12:30 hs.
 
@@ -63,6 +73,11 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 
 #### Ejercicios
 
+[![Open Colab
+5](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+[![Open Colab
+6](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
 ### Viernes 2, de 14 a 17:30 hs.
 
 Extracción de triplet SAO: desarrollo de técnicas para la identificación
@@ -88,3 +103,8 @@ Python. A cargo del Dr. Agustín Santella.
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
 
 #### Ejercicios
+
+[![Open Colab
+7](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+[![Open Colab
+8](https://colab.research.google.com/assets/colab-badge.svg)](#)
