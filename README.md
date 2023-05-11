@@ -22,7 +22,7 @@ Nieto y del Lic. Diego Pacheco
 #### Ejercicios
 
 [![Open Colab
-1](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e0ScGPss5V3_8ic6lxPenE2HrMi5JgtG?usp=sharing)
 [![Open Colab
 2](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
@@ -44,9 +44,8 @@ y del Dr. Agustín Nieto
 #### Ejercicios
 
 [![Open Colab
-3](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-[![Open Colab
-4](https://colab.research.google.com/assets/colab-badge.svg)](#)
+3](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Open
+Colab 4](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ### Viernes 2, de 9 a 12:30 hs.
 
@@ -74,9 +73,8 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 #### Ejercicios
 
 [![Open Colab
-5](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-[![Open Colab
-6](https://colab.research.google.com/assets/colab-badge.svg)](#)
+5](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Open
+Colab 6](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ### Viernes 2, de 14 a 17:30 hs.
 
@@ -105,6 +103,5 @@ Python. A cargo del Dr. Agustín Santella.
 #### Ejercicios
 
 [![Open Colab
-7](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-[![Open Colab
-8](https://colab.research.google.com/assets/colab-badge.svg)](#)
+7](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Open
+Colab 8](https://colab.research.google.com/assets/colab-badge.svg)](#)
