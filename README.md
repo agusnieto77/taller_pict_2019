@@ -19,10 +19,8 @@ Nieto y del Lic. Diego Pacheco
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
 
-#### Ejercicios
+#### Ejercicios: [![Open Colab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_I.ipynb)
 
-[![Open Colab
-1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_I.ipynb)
 [![Open Colab
 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_II.ipynb)
 
@@ -41,11 +39,10 @@ y del Dr. Agustín Nieto
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
 
-#### Ejercicios
+#### Ejercicio: [![Open Colab 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_I.ipynb)
 
 [![Open Colab
-3](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Open
-Colab 4](https://colab.research.google.com/assets/colab-badge.svg)](#)
+4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_II.ipynb)
 
 ### Viernes 2, de 9 a 12:30 hs.
 
@@ -70,11 +67,10 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
 
-#### Ejercicios
+#### Ejercicios: [![Open Colab 5](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 [![Open Colab
-5](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Open
-Colab 6](https://colab.research.google.com/assets/colab-badge.svg)](#)
+6](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ### Viernes 2, de 14 a 17:30 hs.
 
@@ -100,8 +96,7 @@ Python. A cargo del Dr. Agustín Santella.
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
 
-#### Ejercicios
+#### Ejercicios: [![Open Colab 7](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 [![Open Colab
-7](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Open
-Colab 8](https://colab.research.google.com/assets/colab-badge.svg)](#)
+8](https://colab.research.google.com/assets/colab-badge.svg)](#)

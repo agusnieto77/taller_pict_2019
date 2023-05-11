@@ -21,9 +21,7 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): me
 
 - Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest Event Analysis: Developing a Semiautomated NLP Approach. *American Behavioral Scientist*, 66(5), 555--577. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
 
-#### Ejercicios
-
-[![Open Colab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_I.ipynb) 
+#### Ejercicios: [![Open Colab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_I.ipynb) 
 [![Open Colab 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_II.ipynb)
 
 ### Jueves 1, de 14 a 17:30 hs. {style="text-align: justify"}
@@ -35,10 +33,8 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): de
 - Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work for Sociological Inquiry. *Sociological Methods & Research*, 51(4), 1580–1633. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
 
 
-#### Ejercicios
-
-[![Open Colab 3](https://colab.research.google.com/assets/colab-badge.svg)](#) 
-[![Open Colab 4](https://colab.research.google.com/assets/colab-badge.svg)](#)
+#### Ejercicio: [![Open Colab 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_I.ipynb) 
+[![Open Colab 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_II.ipynb)
 
 ### Viernes 2, de 9 a 12:30 hs. {style="text-align: justify"}
 
@@ -52,9 +48,7 @@ Etiquetado de noticias: hacia el desarrollo de un método basado en el aprendiza
 - Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual Data Labeling. *Tasq.Ai*. https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/
 . Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
 
-#### Ejercicios
-
-[![Open Colab 5](https://colab.research.google.com/assets/colab-badge.svg)](#) 
+#### Ejercicios: [![Open Colab 5](https://colab.research.google.com/assets/colab-badge.svg)](#) 
 [![Open Colab 6](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ### Viernes 2, de 14 a 17:30 hs. {style="text-align: justify"}
@@ -68,7 +62,5 @@ Extracción de triplet SAO: desarrollo de técnicas para la identificación comp
 - Fajcik, M., Singh, M., Zuluaga-Gomez, J., Villatoro-Tello, E., Burdisso, S., Motlicek, P., & Smrz, P. (2022). IDIAPers @ Causal News Corpus 2022: Extracting Cause-Effect-Signal Triplets via Pre-trained Autoregressive Language Model (*arXiv*:2209.03891). Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
 
 
-#### Ejercicios
-
-[![Open Colab 7](https://colab.research.google.com/assets/colab-badge.svg)](#) 
+#### Ejercicios: [![Open Colab 7](https://colab.research.google.com/assets/colab-badge.svg)](#) 
 [![Open Colab 8](https://colab.research.google.com/assets/colab-badge.svg)](#)
