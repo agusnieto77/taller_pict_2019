@@ -2,15 +2,15 @@
 
 ### Desarrollo de técnicas en el campo de análisis de texto asistido por computadora aplicado a la conflictividad social
 
-##### 1 y 2 de junio de 2023, Mar del Plata
+#### 1 y 2 de junio de 2023, Mar del Plata
 
-#### Jueves 1, de 9 a 12:30 h.
+### Jueves 1, de 9 a 12:30 h.
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de
 Protesta): mejoramiento de funciones existentes. A cargo del Dr. Agustín
 Nieto y del Lic. Diego Pacheco
 
-##### Biblio
+#### Biblio
 
 -   Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest
     Event Analysis: Developing a Semiautomated NLP Approach. American
@@ -19,15 +19,15 @@ Nieto y del Lic. Diego Pacheco
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
 
-##### Ejercicios
+#### Ejercicios
 
-#### Jueves 1, de 14 a 17:30 h.
+### Jueves 1, de 14 a 17:30 h.
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de
 Protesta): desarrollo de nuevas funciones. A cargo de Rodrigo Fernández
 y del Dr. Agustín Nieto
 
-##### Biblio
+#### Biblio
 
 -   Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work
     for Sociological Inquiry. Sociological Methods & Research, 51(4),
@@ -36,15 +36,15 @@ y del Dr. Agustín Nieto
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
 
-##### Ejercicios
+#### Ejercicios
 
-#### Viernes 2, de 9 a 12:30 h.
+### Viernes 2, de 9 a 12:30 h.
 
 Etiquetado de noticias: hacia el desarrollo de un método basado en el
 aprendizaje automático supervisado. A cargo de la Lic. Ivana Teijón, el
 Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
 
-##### Biblio
+#### Biblio
 
 -   Pustejovsky, J., & Stubbs, A. (2012). Natural Language Annotation
     for Machine Learning: A Guide to Corpus-Building for Applications
@@ -61,15 +61,15 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
 
-##### Ejercicios
+#### Ejercicios
 
-#### Viernes 2, de 14 a 17:30 h.
+### Viernes 2, de 14 a 17:30 h.
 
 Extracción de triplet SAO: desarrollo de técnicas para la identificación
 computacional de sujeto-acción-objeto a partir de BERT (Google) desde
 Python. A cargo del Dr. Agustín Santella.
 
-##### Biblio
+#### Biblio
 
 -   Mehta, S., Rangwala, H., & Ramakrishnan, N. (2022). Improving
     Zero-Shot Event Extraction via Sentence Simplification
@@ -87,4 +87,4 @@ Python. A cargo del Dr. Agustín Santella.
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
 
-##### Ejercicios
+#### Ejercicios
