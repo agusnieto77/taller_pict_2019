@@ -10,7 +10,6 @@ output: md_document
 knitr::opts_chunk$set(echo = TRUE)
 #rmarkdown::render("README.Rmd", output_file = "./docs/README.md")
 ```
-## 
 
 ### Jueves 1, de 9 a 12:30 hs. {style="text-align: justify"}
 

@@ -1,5 +1,3 @@
-## 
-
 ### Jueves 1, de 9 a 12:30 hs.
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de
