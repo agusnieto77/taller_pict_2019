@@ -1,4 +1,4 @@
-## Taller CATA \[PICT-328\]
+## 
 
 ### Jueves 1, de 9 a 12:30 hs.
 

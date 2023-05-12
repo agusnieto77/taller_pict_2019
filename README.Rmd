@@ -1,5 +1,5 @@
 ---
-title: "Taller CATA [PICT-328]"
+title: "Taller"
 subtitle: "1 y 2 de junio de 2023, Mar del Plata"
 author: "PICT-19-328"
 date: "2023-05-08"
@@ -10,7 +10,7 @@ output: md_document
 knitr::opts_chunk$set(echo = TRUE)
 #rmarkdown::render("README.Rmd", output_file = "./docs/README.md")
 ```
-## Taller CATA [PICT-328]
+## 
 
 ### Jueves 1, de 9 a 12:30 hs. {style="text-align: justify"}
 
