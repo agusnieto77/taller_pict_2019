@@ -1,9 +1,3 @@
-## Taller
-
-### Desarrollo de técnicas en el campo de análisis de texto asistido por computadora aplicado a la conflictividad social
-
-#### 1 y 2 de junio de 2023, Mar del Plata
-
 ### Jueves 1, de 9 a 12:30 hs.
 
 Desarrollo del paquete ACEP (Análisis Computacional de Eventos de

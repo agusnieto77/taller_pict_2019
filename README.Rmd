@@ -1,5 +1,6 @@
 ---
-title: "Taller"
+title: "Taller CATA [PICT-328]"
+subtitle: "1 y 2 de junio de 2023, Mar del Plata"
 author: "PICT-19-328"
 date: "2023-05-08"
 output: md_document
@@ -7,11 +8,8 @@ output: md_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+#rmarkdown::render("README.Rmd", output_file = "./docs/README.md")
 ```
-## Taller {style="text-align: center"}
-### Desarrollo de técnicas en el campo de análisis de texto asistido por computadora aplicado a la conflictividad social {style="text-align: center"}
-
-#### 1 y 2 de junio de 2023, Mar del Plata {style="text-align: center"}
 
 ### Jueves 1, de 9 a 12:30 hs. {style="text-align: justify"}
 
