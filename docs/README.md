@@ -12,6 +12,7 @@ Nieto y del Lic. Diego Pacheco
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
+    ***\[Lo presenta Guillermina Laitano\]***
 
 #### Ejercicios: 1 [![Open Colab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_I.ipynb) 2 [![Open Colab 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_II.ipynb)
 
@@ -29,6 +30,7 @@ y del Dr. Agustín Nieto
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
+    ***\[Lo presenta Nicolás Rabino\]***
 
 #### Ejercicio: 3 [![Open Colab 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_I.ipynb) 4 [![Open Colab 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_II.ipynb)
 
@@ -46,6 +48,7 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_es.pdf).
+    ***\[Lo presenta Diego Pacheco\]***
 
 -   Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual
     Data Labeling. *Tasq.Ai*.
@@ -54,6 +57,7 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
     inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_en.pdf)
     y [traducción al español con
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
+    ***\[Lo presenta Pablo Becher\]***
 
 #### Ejercicios: 5 [![Open Colab 5](https://colab.research.google.com/assets/colab-badge.svg)](#) 6 [![Open Colab 6](https://colab.research.google.com/assets/colab-badge.svg)](#)
 

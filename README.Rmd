@@ -17,7 +17,7 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): me
 
 #### Biblio
 
-- Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest Event Analysis: Developing a Semiautomated NLP Approach. *American Behavioral Scientist*, 66(5), 555--577. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf).
+- Lorenzini, J., Kriesi, H., Makarov, P., & Wüest, B. (2022). Protest Event Analysis: Developing a Semiautomated NLP Approach. *American Behavioral Scientist*, 66(5), 555--577. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Protest%20Event%20Analysis_es.pdf). ***[Lo presenta Guillermina Laitano]***
 
 #### Ejercicios: 1 [![Open Colab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_I.ipynb) 2 [![Open Colab 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_existentes_II.ipynb)
 
@@ -27,8 +27,7 @@ Desarrollo del paquete ACEP (Análisis Computacional de Eventos de Protesta): de
 
 #### Biblio
 
-- Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work for Sociological Inquiry. *Sociological Methods & Research*, 51(4), 1580–1633. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf).
-
+- Stuhler, O. (2022). Who Does What to Whom? Making Text Parsers Work for Sociological Inquiry. *Sociological Methods & Research*, 51(4), 1580–1633. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/who%20does%20what%20to%20whom_es.pdf). ***[Lo presenta Nicolás Rabino]***
 
 #### Ejercicio: 3 [![Open Colab 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_I.ipynb) 4 [![Open Colab 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_funciones_desarrollo_II.ipynb)
 
@@ -38,11 +37,11 @@ Etiquetado de noticias: hacia el desarrollo de un método basado en el aprendiza
 
 #### Biblio
 
-- Pustejovsky, J., & Stubbs, A. (2012). *Natural Language Annotation for Machine Learning: A Guide to Corpus-Building for Applications* (1st edition). O’Reilly Media. **Caps. 5 y 6**. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_es.pdf).
+- Pustejovsky, J., & Stubbs, A. (2012). *Natural Language Annotation for Machine Learning: A Guide to Corpus-Building for Applications* (1st edition). O’Reilly Media. **Caps. 5 y 6**. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Annotation_es.pdf). ***[Lo presenta Diego Pacheco]***
 
 
 - Catalan, N. (2022, diciembre 14). Automated Data Labeling vs Manual Data Labeling. *Tasq.Ai*. https://www.tasq.ai/blog/automated-data-labeling-vs-manual-data-labeling/
-. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
+. Links: [original en inglés](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_en.pdf) y [traducción al español con Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf). ***[Lo presenta Pablo Becher]***
 
 #### Ejercicios: 5 [![Open Colab 5](https://colab.research.google.com/assets/colab-badge.svg)](#) 6 [![Open Colab 6](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
