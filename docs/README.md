@@ -87,4 +87,4 @@ Python. A cargo del Dr. Agustín Santella.
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Extracting%20Cause-Effect-Signal%20Triplets_es.pdf).
     ***\[Lo presenta Agustín Nieto\]***
 
-#### Ejercicios: 7 [![Open Colab 7](https://colab.research.google.com/assets/colab-badge.svg)](#) 8 [![Open Colab 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_laboratorio_II.ipynb)
+#### Ejercicios: 7 [![Open Colab 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_laboratorio_I.ipynb) 8 [![Open Colab 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_laboratorio_II.ipynb)
