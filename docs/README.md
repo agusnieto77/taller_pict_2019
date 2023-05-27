@@ -59,7 +59,7 @@ Lic. Nicolás Rabino, la Dra. Luciana Nogueira y el Dr. Pablo Becher
     Google](https://github.com/agusnieto77/taller_pict_2019/blob/main/biblio/Labeling_es.pdf).
     ***\[Lo presenta Pablo Becher\]***
 
-#### Ejercicios: 5 [![Open Colab 5](https://colab.research.google.com/assets/colab-badge.svg)](#) 6 [![Open Colab 6](https://colab.research.google.com/assets/colab-badge.svg)](#)
+#### Ejercicios: 5 [![Open Colab 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_etiquetado_I.ipynb) 6 [![Open Colab 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agusnieto77/taller_pict_2019/blob/main/Colabs/ACEP_etiquetado_II.ipynb)
 
 ### Viernes 2, de 14 a 17:30 hs.
 
